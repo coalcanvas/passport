@@ -3,14 +3,18 @@
   "username": "abc", 
   "email": "abc@gmail.com", 
   "password": "jkjk123",
-  "role": "subscriber"
+  "role": "subscriber",
+  "created_at": "2017-07-08T16:18:44-04:00",
+  "updated_at": "2017-07-08T16:18:44-04:00",
+  "site_admin": false
   }, 
   {
   "username": "def", 
   "email": "def@gmail.com", 
   "password": "asasas",
-  "role": "subscriber"
-  },
+  "role": "subscriber",
+  "created_at": "2017-07-08T16:18:44-04:00",
+  "updated_at": "2017-07-08T16:18:44-04:00",
+  "site_admin": false
   }
-  {timestamp: true}
 ]
