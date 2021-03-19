@@ -1,0 +1,16 @@
+[
+   {
+  "username": "abc", 
+  "email": "abc@gmail.com", 
+  "password": "jkjk123",
+  "role": "subscriber"
+  }, 
+  {
+  "username": "def", 
+  "email": "def@gmail.com", 
+  "password": "asasas",
+  "role": "subscriber"
+  },
+  }
+  {timestamp: true}
+]
